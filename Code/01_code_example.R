@@ -7,8 +7,8 @@
 ## CONTRIBUTORS
 # Midori Yajima <yajimamidorimichela@gmail.com>
 # Friends       <friends@email.com>
-# Richard <rkfnair@gmail.com>
-# Catarina <cbarbosa@tcd.ie>
+# Richard       <rkfnair@gmail.com>
+# Catarina      <cbarbosa@tcd.ie>
 
 #------------------------------------------
 # 1. Set up ----
