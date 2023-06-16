@@ -7,6 +7,7 @@
 ## CONTRIBUTORS
 # Midori Yajima <yajimamidorimichela@gmail.com>
 # Friends       <friends@email.com>
+# Richard <rkfnair@gmail.com>
 
 #------------------------------------------
 # 1. Set up ----
